@@ -41,7 +41,7 @@ Working on it
 <img align="left" alt="ShadCN" height="50px" src="https://avatars.githubusercontent.com/u/139895814?s=280&v=4" />
 <img align="left" alt="Liveblocks" height="50px" src="https://pbs.twimg.com/profile_images/1623982338630733826/_dFRCa3T_400x400.png" />
 <img align="left" alt="Lexical Editor" height="50px" src="https://seeklogo.com/images/L/lexical-icon-logo-270F9AECD6-seeklogo.com.png" />
-<img align="left" alt="Clerk" height="50px" src="https://imgix.cosmicjs.com/9d8bc340-e63d-11ee-b074-b5c8fe3ef189-clerk.webp?w=1200&auto=format,compression" />
+<img align="left" alt="Clerk" height="50px" src="https://uploads.productlane.com/7254258eb34a7b4626b86f0fbd4c1ed6.png" />
 <img align="left" alt="Git" height="50px" src="https://cdn.svgporn.com/logos/git-icon.svg" />
 <img align="left" alt="Vercel" height="50px" src="https://cdn.svgporn.com/logos/vercel-icon.svg" />
 
