@@ -1,7 +1,7 @@
 ## Collaborative Editor
 
 <p>
-Currently working on it
+Currently working on it...
 </p>
 
 ## [Collaborative Editor]()
