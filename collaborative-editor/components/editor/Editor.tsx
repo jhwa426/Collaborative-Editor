@@ -19,7 +19,6 @@ function Placeholder() {
 
 export function Editor() {
 
-
     const initialConfig = {
         namespace: 'Editor',
         nodes: [HeadingNode],
