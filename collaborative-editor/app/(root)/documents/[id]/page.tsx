@@ -1,12 +1,10 @@
-import { Editor } from "@/components/editor/Editor";
-import React from 'react'
 
-const Documents = () => {
+const Document = () => {
     return (
         <div>
-            <Editor />
+
         </div>
     );
 }
 
-export default Documents;
+export default Document;
