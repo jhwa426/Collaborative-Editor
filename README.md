@@ -1,26 +1,23 @@
 ## Collaborative Editor
 
 <p>
-Currently working on it...
+Built a Full-Stack Collaborative Editor using TypeScript and Next JS, which enabled a collaborative text editor with real-time updates, document management (including create, delete, share, and list operations), comments with threading, active collaborator indicators, and responsive design across all devices.
 </p>
 
-## [Collaborative Editor]()
+## [Collaborative Editor](https://collaborative-editor-ce.vercel.app)
 
 ### Features
 
-- Authentication: User authentication using GitHub through NextAuth, ensuring secure sign-in/out and session management
+- Authentication: User authentication using Google through NextAuth, ensuring secure sign-in/out and session management
 
 - Collaborative Text Editor: Multiple users can edit the same document simultaneously with real-time updates
 
 - Documents Management: CRDU operations (Create, Delete, Share, List)
 
-- Create Documents: Users can create new documents, which are automatically saved and listed
-
-- Delete Documents: Users can delete documents they own
-
-- Share Documents: Users can share documents via email or link with view/edit permissions
-
-- List Documents: Display all documents owned or shared with the user, with search and sorting functionality
+  - **Create Documents**: Users can create new documents, which are automatically saved and listed.
+  - **Delete Documents**: Users can delete documents they own.
+  - **Share Documents**: Users can share documents via email or link with view/edit permissions.
+  - **List Documents**: Display all documents owned or shared with the user, with search and sorting functionalities.
 
 - Comments: Users can add inline and general comments, with threading for discussions
 
