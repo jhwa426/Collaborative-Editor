@@ -41,11 +41,45 @@ const Notifications = () => {
                     }}
                 >
                     <InboxNotificationList>
+                        {unreadNotifications.length <= 0 && (
+                            <p className="py-2 text-center text-dark-500">No new notifications</p>
+                        )}
 
-
-
-
-
+                        {unreadNotifications.length > 0 && unreadNotifications.map((notification) => (
+                            <InboxNotification
+                                key={notification.id}
+                                inboxNotification={notification}
+                                className="bg-dark-200 text-white"
+                                href={`/documents/${notification.roomId}`}
+                                showActions={false}
+                                kinds={{
+                                    thread: (props) => (
+                                        <InboxNotification.Thread {...props}
+                                            showActions={false}
+                                            showRoomName={false}
+                                        />
+                                    ),
+                                    textMention: (props) => (
+                                        <InboxNotification.TextMention {...props}
+                                            showRoomName={false}
+                                        />
+                                    ),
+                                    $documentAccess: (props) => (
+                                        <InboxNotification.Custom {...props} title={props.inboxNotification.activities[0].data.title} aside={<InboxNotification.Icon className="bg-transparent">
+                                            <Image
+                                                src={props.inboxNotification.activities[0].data.avatar as string || ''}
+                                                width={36}
+                                                height={36}
+                                                alt="avatar"
+                                                className="rounded-full"
+                                            />
+                                        </InboxNotification.Icon>}>
+                                            {props.children}
+                                        </InboxNotification.Custom>
+                                    )
+                                }}
+                            />
+                        ))}
                     </InboxNotificationList>
                 </LiveblocksUIConfig>
             </PopoverContent>
