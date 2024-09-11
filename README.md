@@ -31,20 +31,8 @@ Built a Full-Stack Collaborative Editor using TypeScript and Next JS, which enab
 
 ## Technical Skills 💻
 
-<img align="left" alt="React/React Native" height="50px" src="https://cdn.svgporn.com/logos/react.svg" />
-<img align="left" alt="Typescript" height="50px" src="https://cdn.svgporn.com/logos/typescript-icon.svg" />
-<img align="left" alt="NextJS" height="50px" src="https://cdn.svgporn.com/logos/nextjs-icon.svg" />
-<img align="left" alt="tailwindcss" height="50px" src="https://cdn.svgporn.com/logos/tailwindcss-icon.svg" />
-<img align="left" alt="ShadCN" height="50px" src="https://avatars.githubusercontent.com/u/139895814?s=280&v=4" />
-<img align="left" alt="Liveblocks" height="50px" src="https://pbs.twimg.com/profile_images/1623982338630733826/_dFRCa3T_400x400.png" />
-<img align="left" alt="Lexical Editor" height="50px" src="https://seeklogo.com/images/L/lexical-icon-logo-270F9AECD6-seeklogo.com.png" />
-<img align="left" alt="Clerk" height="50px" src="https://uploads.productlane.com/7254258eb34a7b4626b86f0fbd4c1ed6.png" />
-<img align="left" alt="Git" height="50px" src="https://cdn.svgporn.com/logos/git-icon.svg" />
-<img align="left" alt="Vercel" height="50px" src="https://cdn.svgporn.com/logos/vercel-icon.svg" />
+<img align="left" alt="React/React Native" height="50px" src="https://cdn.svgporn.com/logos/react.svg" /><img align="left" alt="Typescript" height="50px" src="https://cdn.svgporn.com/logos/typescript-icon.svg" /><img align="left" alt="NextJS" height="50px" src="https://cdn.svgporn.com/logos/nextjs-icon.svg" /><img align="left" alt="tailwindcss" height="50px" src="https://cdn.svgporn.com/logos/tailwindcss-icon.svg" /><img align="left" alt="ShadCN" height="50px" src="https://avatars.githubusercontent.com/u/139895814?s=280&v=4" /><img align="left" alt="Liveblocks" height="50px" src="https://pbs.twimg.com/profile_images/1623982338630733826/_dFRCa3T_400x400.png" /><img align="left" alt="Lexical Editor" height="50px" src="https://seeklogo.com/images/L/lexical-icon-logo-270F9AECD6-seeklogo.com.png" /><img align="left" alt="Clerk" height="50px" src="https://uploads.productlane.com/7254258eb34a7b4626b86f0fbd4c1ed6.png" /><img align="left" alt="Git" height="50px" src="https://cdn.svgporn.com/logos/git-icon.svg" /><img align="left" alt="Vercel" height="50px" src="https://cdn.svgporn.com/logos/vercel-icon.svg" />
 
-<br />
-<br />
-<br />
 <br />
 
 # Getting Started
