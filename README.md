@@ -47,9 +47,9 @@ Built a Full-Stack Collaborative Editor using TypeScript and Next JS, which enab
 <br />
 <br />
 
-# Getting Started
+## Getting Started
 
-## Installation
+### Installation
 
 <details>
 1. Open Terminal.
